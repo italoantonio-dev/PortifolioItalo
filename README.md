@@ -9,6 +9,8 @@ Portfólio pessoal de Italo Antonio, com informações sobre experiência, forma
 
 ## Como visualizar
 
+[italoantonio-dev.github.io/PortifolioItalo/#inicio](https://italoantonio-dev.github.io/PortifolioItalo/#inicio)
+
 Abra o arquivo `index.html` em um navegador ou use uma extensão de servidor local, como o Live Server do VS Code.
 
 ## Autor
